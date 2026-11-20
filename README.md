@@ -8,6 +8,14 @@ web link, no VPN or app installs for the family.
 Built with Next.js (deploys to Vercel) and Postgres (hosted free on
 Supabase).
 
+## Screenshots
+
+Mock data only (fake names and amounts).
+
+| Summary | New entry | Recent |
+| --- | --- | --- |
+| ![Monthly summary donut chart](docs/screenshots/summary.png) | ![New entry form](docs/screenshots/new-entry.png) | ![Recent expenses list](docs/screenshots/recent.png) |
+
 ---
 
 ## 1. Set up the database (Supabase)
